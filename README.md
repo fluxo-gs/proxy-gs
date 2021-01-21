@@ -2,6 +2,7 @@
 
 ## Goals
 
+- create a turnkey docker container to run on any standard platform
 - provide a non-TLS proxy to TLS web pages
 - suppress large images, ads, popups, etc.
 - reformat pages in either text-only or minimal-graphics mode (using mobile or 508 plus additional content cleaning)
