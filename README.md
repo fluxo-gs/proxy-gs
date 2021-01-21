@@ -10,11 +10,11 @@
 
 ## References
 
-https://github.com/mitmproxy/mitmproxy
-https://retrocomputing.stackexchange.com/questions/17680/how-can-i-visit-https-websites-in-old-web-browsers
-https://github.com/bobbimanners/ProDOS-Utils/blob/master/README-https-gateway.md
-https://virtuallyfun.com/wordpress/2014/03/03/surfing-modern-web-with-ancient-browsers/
-https://brow.sh/
+- https://github.com/mitmproxy/mitmproxy
+- https://retrocomputing.stackexchange.com/questions/17680/how-can-i-visit-https-websites-in-old-web-browsers
+- https://github.com/bobbimanners/ProDOS-Utils/blob/master/README-https-gateway.md
+- https://virtuallyfun.com/wordpress/2014/03/03/surfing-modern-web-with-ancient-browsers/
+- https://brow.sh/
 
 
 
